@@ -168,7 +168,7 @@ function buildShell() {
   app.classList.remove('has-undo', 'has-modal');
   app.innerHTML = `
     <header class="appbar">
-      <span class="brand">${ICONS.brand}<span>ASÜ-Timer</span></span>
+      <span class="brand">${ICONS.brand}<span>ASÜ-Timer by LZ4</span></span>
       <button class="snd" id="snd" data-act="sound" hidden>🔇 Ton aktivieren</button>
       <span class="clock" id="pclock" aria-label="Uhrzeit">--:--:--</span>
     </header>
