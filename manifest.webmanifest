@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "ASÜ-Timer – Atemschutzüberwachung",
+  "short_name": "ASÜ-Timer",
+  "description": "Stoppuhr und Rechenhilfe für die Atemschutzüberwachung nach FwDV 7. Maßgeblich bleibt die Tafel.",
+  "lang": "de",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1016",
+  "theme_color": "#131b24",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
